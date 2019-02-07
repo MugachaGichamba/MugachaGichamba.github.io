@@ -1,0 +1,12 @@
+.main_heading {
+  text-align: center;
+  font-family: cursive;
+  color: maroon;
+  font-style: oblique;
+}
+
+.main_picture {
+    margin-left: 40%;
+    padding: 20px;
+    border: 2px solid maroon;
+}
