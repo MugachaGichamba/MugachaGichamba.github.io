@@ -1,3 +1,8 @@
+.intro {
+  background-image: url("../images/tan-background.png");
+  padding: 20px;
+}
+
 .main_heading {
   text-align: center;
   font-family: cursive;
@@ -6,7 +11,23 @@
 }
 
 .main_picture {
-    margin-left: 40%;
-    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
     border: 2px solid maroon;
+    border-radius: 60%;
+    height: 15%;
+    width: 15%;
+}
+
+h2 {
+  text-align: center;
+
+  font-family: cursive;
+  text-decoration: underline;
+  color: maroon;
+}
+.projects {
+  back
 }
