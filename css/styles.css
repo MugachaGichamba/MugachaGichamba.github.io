@@ -71,7 +71,17 @@ footer {
 .extra{
   text-align: center;
 }
+.social_media {
+  margin-left: 50%;
+  font-size: 30px;
+}
+.fa-facebook {
+  color: white;
+}
 
+.fa-youtube {
+  color: white;
+}
 
 ol
  {
