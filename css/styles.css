@@ -40,6 +40,9 @@ h2 {
 .reasons {
   clear: both;
 }
+.projects {
+  text-align: center;
+}
 
 .job_experience {
   float: right;
