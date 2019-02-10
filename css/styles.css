@@ -35,8 +35,13 @@ h2 {
 
   border-right: 3px solid maroon;
   margin-left: 20%;
-
+  margin-right: 5%;
+  padding-right: 5%;
 }
+.job_experience {
+  padding-top: 0.05px;
+}
+
 .reasons {
   clear: both;
 }
@@ -44,10 +49,7 @@ h2 {
   text-align: center;
 }
 
-.job_experience {
-  float: right;
-  width: 50%
-}
+
 
 .about_me h3 {
   margin-left: 3%;
