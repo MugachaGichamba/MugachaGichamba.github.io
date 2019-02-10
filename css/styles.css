@@ -1,7 +1,9 @@
 .intro {
   background-image: url("../images/tan-background.png");
   padding: 20px;
+  opacity: 50%
 }
+
 
 .main_heading {
   text-align: center;
@@ -28,6 +30,44 @@ h2 {
   text-decoration: underline;
   color: maroon;
 }
-.projects {
-  back
+.education {
+  float: left;
+
+  border-right: 3px solid maroon;
+  margin-left: 20%;
+  color: tan;
 }
+.reasons {
+  clear: both;
+}
+
+.job_experience {
+  float: right;
+  width: 50%
+}
+
+.about_me h3 {
+  margin-left: 3%;
+}
+
+footer {
+  background-color: maroon;
+  margin-bottom: 10px;
+  padding: 5px;
+  color: white;
+  position: static;
+  opacity: 0.8;
+}
+.cop {
+  text-align: center;
+}
+.extra {
+  text-align: center;
+}
+
+ol
+ {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+ }
