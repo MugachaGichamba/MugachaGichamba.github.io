@@ -7,6 +7,7 @@
 body {
   background-color: silver;
 }
+
 .main_heading {
   text-align: center;
   font-family: cursive;
@@ -27,19 +28,19 @@ body {
 
 h2 {
   text-align: center;
-
   font-family: cursive;
   text-decoration: underline;
   color: maroon;
 }
+
 .education {
   float: left;
-
   border-right: 3px solid maroon;
   margin-left: 20%;
   margin-right: 5%;
   padding-right: 5%;
 }
+
 .job_experience {
   padding-top: 0.05px;
 }
@@ -47,11 +48,10 @@ h2 {
 .reasons {
   clear: both;
 }
+
 .projects {
   text-align: center;
 }
-
-
 
 .about_me h3 {
   margin-left: 3%;
@@ -65,16 +65,20 @@ footer {
   position: static;
   opacity: 0.8;
 }
+
 .cop {
   text-align: center;
 }
+
 .extra{
   text-align: center;
 }
+
 .social_media {
   margin-left: 50%;
   font-size: 30px;
 }
+
 .fa-facebook {
   color: white;
 }
@@ -89,6 +93,7 @@ ol
     margin-left: auto;
     margin-right: auto;
 }
+
  .why{
    color: maroon;
  }
