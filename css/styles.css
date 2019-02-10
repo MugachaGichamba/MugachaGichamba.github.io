@@ -4,7 +4,9 @@
   opacity: 50%
 }
 
-
+body {
+  background-color: silver;
+}
 .main_heading {
   text-align: center;
   font-family: cursive;
@@ -66,9 +68,10 @@ footer {
 .cop {
   text-align: center;
 }
-.extra {
+.extra{
   text-align: center;
 }
+
 
 ol
  {
